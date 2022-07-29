@@ -1,0 +1,28 @@
+{
+  "name": "dt_nodejs_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhas-malhotra/dt_nodejs_challenge.git"
+  },
+  "author": "suhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhas-malhotra/dt_nodejs_challenge/issues"
+  },
+  "homepage": "https://github.com/suhas-malhotra/dt_nodejs_challenge#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
